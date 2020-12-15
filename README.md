@@ -12,6 +12,13 @@ https://apollo.vuejs.org/guide/installation.html#_1-apollo-client
 npm install --save vue-apollo graphql apollo-client apollo-link apollo-link-http apollo-cache-inmemory graphql-tag
 ```
 
+## 起動
+サーバサイドは以下のリポジトリにある。  
+https://github.com/SRsawaguchi/graphql-hanson-server
+
+こちらのREADME.mdに従ってサーバを起動する。  
+
+その後、`npm run serve`でこちらのサーバを実行する。  
 
 ---
 
